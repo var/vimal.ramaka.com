@@ -2,12 +2,15 @@ $(document).ready(function () {
     var wWidth = $(window).width();
     var wHeight = $(window).height();
 	var s1p = (wHeight / 2);
+  var nbarh = '40px';
 
 	$('#hello').css('padding-top', s1p+'px');
 	$('#hello').css('height', s1p+'px');
 	$('#thingsiworkedon').css('min-height', wHeight+'px');
+  $('#thingsispokeabout').css('min-height', wHeight+'px');
 	//$('#thingsiworkedon').css('height', wHeight+'px');
-	$('#pleaseprintwisely').css('padding-top', '51px');
+	//$('#pleaseprintwisely').css('padding-top', '40px');
+  $('#pleaseprintwisely').css('min-height', wHeight+'px');
 
 	function filterPath(string) {
   return string

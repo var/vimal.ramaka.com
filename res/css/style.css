@@ -16,13 +16,6 @@ a:visited {
 }
 */
 
-.title {
-
-}
-
-#title {
-	z-index:100;
-}
 
 #nav-title {
 	visibility: hidden;
@@ -32,6 +25,7 @@ a:visited {
 
 .is-sticky .title {
 	font-size: 24px;
+	z-index: 100;
 }
 
 /* Navigation */
@@ -75,6 +69,10 @@ div#slide1, div#slide3{
 	position: relative;
 }
 
+.project {
+	padding-bottom: 10px;
+}
+
 .project .row .span4 h4,
 .project .row .span8 h4 {
 	margin: 0;
@@ -87,6 +85,15 @@ div#slide1, div#slide3{
 }
 .project .row .span4 h4 a:hover{
 	text-decoration: none;
+}
+
+.project .row {
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.psectiontitle {
+	font-weight: bold;
 }
 
 /*/* Tablet */

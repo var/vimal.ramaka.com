@@ -2,19 +2,6 @@
 img {
 	max-width: 100%;
 }
-/*a:link {
-	color: #f68f67;
-	text-decoration: none;
-}
-a:hover {
-	color: #bde2df;
-	text-decoration: none;
-}
-a:visited {
-	color: #f68f67;
-	text-decoration: none;
-}
-*/
 
 .title {
 	position: relative;
@@ -128,3 +115,10 @@ div#slide1, div#slide3{
 	margin-bottom: 0px;
 }
 
+.in #menu li {
+	padding-left: 30px;
+}
+
+.navbar .btn-navbar {
+	padding: 5px 10px;
+}

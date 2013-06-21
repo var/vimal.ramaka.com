@@ -72,7 +72,8 @@ $(window).resize(function(){
 });
 
 $('#menu a').click(function (e) {
-        $(this).tab('show');
+        e.preventDefault();
+        //$(this).tab('show');
         if ($('.btn').is(":visible"))
           $('.btn').click();
 });

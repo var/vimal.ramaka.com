@@ -1,0 +1,73 @@
+VIMAL ATREYA RAMAKA
+(902) 430-4818
+vimal@ramaka.com
+http://vimal.ramaka.com
+
+Professional Summary 
+	* Having 3 years of experience in the web development industry as a developer and analyst
+	* 5 years of experience with Unix like systems, especially Debian and Ubuntu
+	* 4 years of experience in Object Oriented Programming with Java
+	* Extensive knowledge of Object Oriented Design and Algorithms
+	* Experience with various system scripting languages like awk, sed, csh, shell, bash and web scripting with JavaScript
+	* Experience with Python, Django Framework with both relational and NoSQL databases
+	* 3 years of extensive experience with Drupal development
+	* 2 years of web server / system administration experience
+	* Experience and extensive knowledge of Apache and NGINX
+	* Expertise in version control systems like git, svn and cvs
+	* Intermediate skills of Android and iOS programming
+	* Lead, managed and built a major project which acts as a core element of a client’s business
+	* Ability to manage projects and teams efficiently
+
+Techincal Summary
+	Programming languages 	-	Java, Python, C, C++, Perl
+	Scripting 				-	Shell, csh, awk, sed, bash
+	Operating Systems 		-	Ubuntu, Arch Linux, Debian, Mac OSX, Windows, Android and iOS
+	Web Technologies 		-	JavaScript, JQuery, JSON, PHP, MySQL, MongoDB, XHTML, XML, CSS, HTML5 and CSS3
+	Frameworks				-	Django, Drupal, Twitter Bootstrap, Foundation
+	Servers					-	NGINX (LEMP), Apache (LAMP)
+	Services 				-	Google App Engine (Google Cloud Services), Amazon AWS, Heroku
+	Programming Tools 		- 	git, svn, cvs, vi, eclipse, Sublime Text, Putty, Microsoft Office, Adobe Creative Suite
+
+Education
+	Bachelors in Computer Science 2009 - Till Date
+	
+	University of Prince Edward Island - Prince Edward Island,  Canada
+	
+	Significant Courses Taken: Introduction to OOP, Advanced Java, Database Systems, Artificial Intelligence, System Programming (Unix), Intro to Web Development, Advanced Web Development with Google App Engine and Python, Operating Systems, Algorithms and Data Structures, Analysis and Design of Algorithms, Principles of Programming, Entre’Ship and Small Business Management, Financial Accounting
+
+Work Experience 
+	Application Developer  Aug 2011 - Till Date
+	Varchas LLC PEI,,  Canada
+	Worked as an application developer, developing apps for multiple platforms, such as web and OS specific native applications.Varchas LLC is a startup from the US that provides technological services to clients across various markets.   
+
+	Web Developer Feb 2010 - Sep 2011
+	University of Prince Edward Island PEI,  Canada
+	Worked with multiple versions of Drupal making websites that form the UPEI.ca cluster. Worked on both front-end and backend-end with PHP, CSS and JavaScript. 
+
+	Math Grader Jan 2010 - April 2010
+	University of Prince Edward Island PEI,  Canada
+	Worked as Math Grader at the Math and Statistics Department of University of Prince Edward Island.
+
+Projects
+ Varchas CDN                   Mar 2013 -  Till Date 
+- A content delivery network to efficietly serve Varchas’ client’s static files across the world wide web 
+Technologies Used: Google App Engine, Django, Python, Google Datastore (non-rel db), GitHub Pages 
+Responsibilities: Development and maintenance of the project. 
+ 
+Andrews Sport Conditiong and Andrews Sports Academy          Jan 2013 -  Till Date
+ - Sister sites to Andrews Hockey Growth Programs 
+Technologies Used: Drupal 7, HTML5, CSS3, jQuery, Bootstrap, Java, Python, MariaDB(MySQL), Nginx, Shell 
+Responsibilities: Analysis of requirements, Design and Development, Testing and maintenance of the projects.  
+ 
+Andrews Hockey Growth Programs            Dec 2011 -  Till Date
+ - A responsive, mobile first e-commerce website that runs Andrews Hockey’s entire business and fulfills all kinds of needs 
+Technologies Used: Drupal 7, HTML5, CSS3, jQuery, Bootstrap, Java, Python, MariaDB(MySQL), Nginx, Shell 
+Responsibilities: Analysis of requirements, Design and Development, Testing and maintenance of the project. 
+- UPEI APP 11                Jan 2012 - Apr 2012 
+- University of Prince Edward Island Events           Jul 2011 -  Aug 2011 
+- University of Prince Edward Island Intranet           Jun 2011 - Aug 2011 
+- Student Union Societies at University of Prince Edward          Nov 2010 -Aug 2011 
+- UPEI Communications Support Ticketing System           Nov 2010 -Aug 2011
+ - Canine Inherited Disorders Database (CIDD)           Mar 2010 - May 2010 
+- UPEI Presidential Search Website            Feb 2010 -  Mar 2010 
+- And various other projects at University of Prince Edward Island

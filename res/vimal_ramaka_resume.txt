@@ -49,10 +49,11 @@ Work Experience
 	Worked as Math Grader at the Math and Statistics Department of University of Prince Edward Island.
 
 Projects
- Varchas CDN                   Mar 2013 -  Till Date 
-- A content delivery network to efficietly serve Varchas’ client’s static files across the world wide web 
-Technologies Used: Google App Engine, Django, Python, Google Datastore (non-rel db), GitHub Pages 
-Responsibilities: Development and maintenance of the project. 
+	Varchas CDN                   Mar 2013 -  Till Date 
+	
+	- A content delivery network to efficietly serve Varchas’ client’s static files across the world wide web 
+	Technologies Used: Google App Engine, Django, Python, Google Datastore (non-rel db), GitHub Pages 
+	Responsibilities: Development and maintenance of the project. 
  
 Andrews Sport Conditiong and Andrews Sports Academy          Jan 2013 -  Till Date
  - Sister sites to Andrews Hockey Growth Programs 

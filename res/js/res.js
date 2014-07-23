@@ -59,6 +59,8 @@ function scrolling() {
 }
 
 $(document).ready(function () {
+
+    mixpanel.track("New Visit");
     setDivSize();
     scrolling();
 
